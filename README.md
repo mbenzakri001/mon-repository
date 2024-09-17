@@ -1,20 +1,2 @@
 # mon-repository
-<<<<<<< HEAD
-ohfizefzefhzf
-ferhfozr
-zefkhzf
-
-=======
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> origin
+readme file 
